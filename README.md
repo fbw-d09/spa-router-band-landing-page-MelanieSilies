@@ -29,22 +29,6 @@ You can experiment with transitions between pages as well. Here are some interes
 > This is what CodeBuddy found when running your code. It is to show you what you have achieved and to give you hints on how to complete the exercise.
 
 
-### App
-
-|                 Status                  | Check                                                                                    |
-| :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status0.svg) | renders without crashing |
-| ![Status](../../blob/badges/.github/badges/main/status1.svg) | loads with the default path |
-| ![Status](../../blob/badges/.github/badges/main/status2.svg) | has at least four navigation elements |
-| ![Status](../../blob/badges/.github/badges/main/status3.svg) | navigates to the guitar page when the guitar link is clicked |
-| ![Status](../../blob/badges/.github/badges/main/status4.svg) | navigates to the bass page when the bass link is clicked |
-| ![Status](../../blob/badges/.github/badges/main/status5.svg) | navigates to the vocals page when the vocals link is clicked |
-| ![Status](../../blob/badges/.github/badges/main/status6.svg) | navigates to the drums page when the drums link is clicked |
-| ![Status](../../blob/badges/.github/badges/main/status7.svg) | displays an image related to guitar when the path is /guitar |
-| ![Status](../../blob/badges/.github/badges/main/status8.svg) | displays an image related to bass when the path is /bass |
-| ![Status](../../blob/badges/.github/badges/main/status9.svg) | displays an image related to vocals when the path is /vocals |
-| ![Status](../../blob/badges/.github/badges/main/status10.svg) | displays an image related to drums when the path is /drums |
-
 
 
 [🔬 Results Details](../../actions)
