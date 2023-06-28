@@ -42,8 +42,8 @@ body,
             color: white;
             // transition: color 0.3s ease-in-out;
           }
-          .selected {
-            color: #579de6;
+          .active {
+            color: #b24c03;
           }
         }
       }
@@ -56,6 +56,8 @@ body,
     color: white;
     img {
       max-width: 700px;
+      padding-bottom: 50px;
     }
   }
 }
+
